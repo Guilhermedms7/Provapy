@@ -1,0 +1,4 @@
+Ligue o primeiro interruptor por 10 minutos.
+Desligue o primeiro e ligue o segundo.
+Vá até as salas das lâmpadas.
+A lâmpada acesa é do segundo interruptor, a apagada e quente é do primeiro, e a apagada e fria é do terceiro.
